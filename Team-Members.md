@@ -1,5 +1,5 @@
 # Team Members
 
-Put your names and UCIDs here:
+Put your names:
 
-- Member #1: Mehrnaz Zafari -- UCID: 30118953
+- Member #1: Mehrnaz Zafari
